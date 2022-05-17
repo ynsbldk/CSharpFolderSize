@@ -1,0 +1,3 @@
+# CSharpFolderSize
+
+Get Folder Size
